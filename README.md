@@ -1,7 +1,7 @@
 **Виконали:** 
 *студенти 2-го курсу, групи ІМ-21:* 
 
-<span padding-right:5em></span> **Галай Андрій** [Пошта: tytianiuk@gmail.com]
+<span padding-right:5em></span> **Галай Андрій** [Пошта: halaiandriy@gmail.com]
 <span padding-right:5em></span> **Дворецька Анастасія** [Пошта: nastyadvoretskaya2005@gmail.com]
 
 **Керівник**
